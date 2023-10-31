@@ -1,5 +1,5 @@
 "user strict";
-const User = require("../models/login");
+const User = require("../models/users");
 const bcrypt = require("bcrypt");
 
 // Handle user login
